@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "EQP - Passive": {
+      "commandName": "Project",
+      "commandLineArgs": "--role EQP --open"
+    },
+    "EAP - Active": {
+      "commandName": "Project",
+      "commandLineArgs": "--role EAP --open"
+    },
+    "Simulator - Configure first": {
+      "commandName": "Project"
+    }
+  }
+}

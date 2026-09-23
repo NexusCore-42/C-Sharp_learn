@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "3LzuS6VXGqE=",
+  "success": true,
+  "projectFilePath": "D:\\csharp\\fastsim\\src\\FastSim\\FastSim.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shasha\\.nuget\\packages\\communitytoolkit.highperformance\\8.4.2\\communitytoolkit.highperformance.8.4.2.nupkg.sha512",
+    "C:\\Users\\shasha\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.8\\microsoft.extensions.configuration.10.0.8.nupkg.sha512",
+    "C:\\Users\\shasha\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.8\\microsoft.extensions.configuration.abstractions.10.0.8.nupkg.sha512",
+    "C:\\Users\\shasha\\.nuget\\packages\\microsoft.extensions.configuration.binder\\10.0.8\\microsoft.extensions.configuration.binder.10.0.8.nupkg.sha512",
+    "C:\\Users\\shasha\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.8\\microsoft.extensions.dependencyinjection.abstractions.10.0.8.nupkg.sha512",
+    "C:\\Users\\shasha\\.nuget\\packages\\microsoft.extensions.options\\10.0.8\\microsoft.extensions.options.10.0.8.nupkg.sha512",
+    "C:\\Users\\shasha\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\10.0.8\\microsoft.extensions.options.configurationextensions.10.0.8.nupkg.sha512",
+    "C:\\Users\\shasha\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.8\\microsoft.extensions.primitives.10.0.8.nupkg.sha512",
+    "C:\\Users\\shasha\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.12\\microsoft.net.illink.tasks.10.0.12.nupkg.sha512",
+    "C:\\Users\\shasha\\.nuget\\packages\\secs4net\\3.1.0\\secs4net.3.1.0.nupkg.sha512",
+    "C:\\Users\\shasha\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\10.0.12\\microsoft.netcore.app.runtime.win-x64.10.0.12.nupkg.sha512",
+    "C:\\Users\\shasha\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\10.0.12\\microsoft.windowsdesktop.app.runtime.win-x64.10.0.12.nupkg.sha512",
+    "C:\\Users\\shasha\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\10.0.12\\microsoft.aspnetcore.app.runtime.win-x64.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
