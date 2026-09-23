@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>FastSim.Program</StartupObject>
+    <RootNamespace>FastSim</RootNamespace>
+    <EmbeddedResourceUseDependentUponConvention>false</EmbeddedResourceUseDependentUponConvention>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="../../third_party/Secs4Net/Secs4Net.csproj" />
+    <EmbeddedResource Include="Defaults/SEMI.Library.xml" LogicalName="FastSim.SEMI.Library.xml" />
+  </ItemGroup>
+
+</Project>
+
+
